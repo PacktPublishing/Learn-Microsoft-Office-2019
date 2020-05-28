@@ -1,0 +1,94 @@
+1	Barry	Bally	MIL04	Milnerton	Cobra	15-Apr-83	40	£21.50	£860.00
+2	Bob	Ambrose	MIL14	Milnerton	Monkey Falls	25-Jan-85	36	£12.50	£443.75
+3	Cheryl	Halal	TBV26	Table View	Slingshots	01-Feb-90	36	£13.30	£472.15
+4	Chris	Hume	SUN59	Sunningdale	Shows	12-May-88	40	£7.22	£288.80
+5	Colleen	Abel	TBV58	Table View	Monkey Falls	26-Jul-90	42	£16.75	£703.50
+6	Frank	Culbert	SUN07	Sunningdale	Cobra	12-Jun-83	40	£12.60	£504.00
+7	Harry	Swayne	MIL25	Milnerton	Cobra	30-Dec-90	40	£21.50	£860.00
+8	Kristen	DeVinney	SUN45	Sunningdale	Shows	05-Jun-87	35	£24.00	£840.00
+9	Robert	Murray	SUN47	Sunningdale	Monkey Falls	10-Jun-87	40	£12.60	£504.00
+10	Sara	Kling	MIL29	Milnerton	Monkey Falls	24-Dec-86	36	£12.50	£443.75
+11	Sean	Willis	SUN09	Sunningdale	Monkey Falls	05-Jul-85	36	£13.30	£472.15
+12	Seth	Rose	TBV76	Table View	Cobra	05-Apr-90	32	£5.50	£176.00
+13	Shing	Chen	SUN05	Sunningdale	Cobra	08-Aug-84	36	£13.30	£472.15
+14	Teri	BinMIL	PKL55	Parklands	Monkey Falls	07-Jun-88	40	£8.75	£350.00
+15	Theresa	TBVlifano	TBV19	Table View	Monkey Falls	26-Feb-89	35	£12.10	£423.50
+16	James	Rich	SUN11	Sunningdale	Cobra	11-Oct-86	36	£13.30	£472.15
+17	George	Gorski	TBV18	Table View	Slingshots	07-May-85	40	£22.00	£880.00
+18	Paul	Hoffman	SUN57	Sunningdale	Shows	19-Dec-87	40	£22.00	£880.00
+19	Dean	Kramer	PKL49	Parklands	Cobra	23-Jun-87	40	£15.00	£600.00
+20	TBVrol	Hill	MIL18	Milnerton	Monkey Falls	21-Jul-86	36	£12.50	£443.75
+21	Julia	Smith	SUN19	Sunningdale	Slingshots	17-Feb-84	25	£8.52	£213.00
+22	JPKLqueline	Banks	PKL03	Parklands	Shows	02-Feb-84	40	£8.75	£350.00
+23	Jeffrey	Strong	MIL04	Milnerton	Monkey Falls	08-Mar-81	40	£19.50	£780.00
+24	Jeri Lynn	MPKLFall	PKL07	Parklands	Monkey Falls	08-Apr-84	40	£21.50	£860.00
+25	Sung	Kim	MIL49	Milnerton	Slingshots	15-Nov-89	40	£15.50	£620.00
+26	Theodore	Ness	TBV80	Table View	Slingshots	04-Aug-91	32	£5.50	£176.00
+27	Brad	Hinkelman	MIL15	Milnerton	Monkey Falls	08-Nov-85	40	£19.50	£780.00
+28	Robert	Cuffaro	SUN08	Sunningdale	Cobra	18-Sep-83	40	£12.60	£504.00
+29	Donald	Reese	TBV15	Table View	Shows	17-Aug-84	32	£5.50	£176.00
+30	Joanne	Parker	PKL09	Parklands	Monkey Falls	23-Aug-84	40	£21.50	£860.00
+31	Susan	Drake	SUN34	Sunningdale	Slingshots	13-Dec-89	25	£8.52	£213.00
+32	James	Abel	SUN29	Sunningdale	Cobra	05-Feb-91	35	£12.10	£423.50
+33	Laura	ReaMILn	SUN77	Sunningdale	Monkey Falls	12-Aug-90	35	£24.00	£840.00
+34	Brian	Smith	MIL40	Milnerton	Shows	05-Nov-88	40	£19.50	£780.00
+35	Mary	Barber	MIL32	Milnerton	Monkey Falls	25-Nov-87	36	£12.50	£443.75
+36	Peter	Allen	PKL24	Parklands	Monkey Falls	31-May-86	40	£8.75	£350.00
+37	Mary	Altman	MIL12	Milnerton	Cobra	09-Sep-87	30	£6.50	£191.75
+38	Fred	Mallory	TBV06	Table View	Slingshots	17-Jun-83	38	£15.50	£589.00
+39	Molly	Steadman	SUN65	Sunningdale	Cobra	15-Aug-89	40	£22.00	£880.00
+40	Greg	Connors	SUN49	Sunningdale	Cobra	04-Nov-87	38	£15.50	£589.00
+41	Kathy	Mayron	SUN29	Sunningdale	Slingshots	19-May-86	40	£8.22	£328.80
+42	Bill	Simpson	MIL07	Milnerton	Shows	12-Jan-82	40	£19.50	£780.00
+43	Michael	Richardson	SUN28	Sunningdale	Slingshots	23-Mar-86	35	£24.00	£840.00
+44	Melanie	Bowers	PKL35	Parklands	Slingshots	05-Dec-86	16	£6.50	£100.75
+45	Kyle	Earnhart	SUN16	Sunningdale	Shows	08-Oct-84	40	£22.00	£880.00
+46	Lance	Davies	SUN64	Sunningdale	Cobra	30-Dec-88	32	£5.50	£176.00
+47	Anne	Davidson	TBV23	Table View	Cobra	06-Apr-86	25	£8.52	£213.00
+48	Doug	Briscoll	TBV40	Table View	Slingshots	26-May-87	38	£15.50	£589.00
+49	George	Feldsott	MIL37	Milnerton	Monkey Falls	03-Dec-87	36	£12.50	£443.75
+50	Steve	Singer	PKL29	Parklands	Shows	05-Oct-86	40	£21.50	£860.00
+51	TBVrol	Tucker	SUN14	Sunningdale	Slingshots	12-Apr-84	38	£15.50	£589.00
+52	Henry	Paterson	MIL20	Milnerton	Cobra	28-Oct-87	40	£21.50	£860.00
+53	Brooks	Hillen	SUN21	Sunningdale	Slingshots	15-Jan-86	35	£24.00	£840.00
+54	Dominick	Mazza	SUN09	Sunningdale	Cobra	10-Oct-86	40	£21.50	£860.00
+55	Jennifer	Snyder	TBV30	Table View	Monkey Falls	07-Jun-88	25	£8.52	£213.00
+56	Joshua	MaTBValuso	PKL69	Parklands	Monkey Falls	23-Jan-91	40	£21.50	£860.00
+57	Bill	Wheeler	SUN05	Sunningdale	Monkey Falls	14-Aug-81	38	£15.50	£589.00
+58	Todd	MPKLters	SUN69	Sunningdale	Shows	23-Nov-89	40	£12.60	£504.00
+59	Karina	Abel	MIL30	Milnerton	Monkey Falls	12-Jan-87	42	£16.75	£703.50
+60	Edward	Trelly	PKL27	Parklands	Cobra	17-Jun-86	40	£8.75	£350.00
+61	Christina	Lillie	SUN24	Sunningdale	Slingshots	29-May-87	25	£8.52	£213.00
+62	Michael	Lewis	PKL58	Parklands	Monkey Falls	27-Apr-89	16	£6.50	£100.75
+63	Jerry	McDonald	MIL08	Milnerton	Slingshots	07-Jul-82	40	£15.50	£620.00
+64	Lynne	Simmons	PKL17	Parklands	Cobra	23-Nov-88	35	£12.10	£423.50
+65	Lindsey	Winger	PKL25	Parklands	Slingshots	01-Feb-86	35	£24.00	£840.00
+66	Chris	Reed	TBV03	Table View	Monkey Falls	27-Mar-84	36	£13.30	£472.15
+67	Paula	Robinson	MIL23	Milnerton	Slingshots	07-Dec-87	30	£6.50	£191.75
+68	William	Abel	SUN66	Sunningdale	Monkey Falls	14-Oct-89	40	£15.50	£620.00
+69	Shirley	Dandrow	TBV45	Table View	Cobra	14-Mar-91	35	£12.10	£423.50
+70	Kim	Smith	MIL54	Milnerton	Shows	27-Nov-89	42	£24.00	£1 008.00
+71	Maria	Switzer	MIL26	Milnerton	Cobra	03-Jun-91	30	£13.30	£392.35
+72	John	JPKLobs	MIL27	Milnerton	Slingshots	04-Oct-86	40	£6.50	£260.00
+73	Bradley	Howard	SUN12	Sunningdale	Monkey Falls	14-Feb-84	40	£7.22	£288.80
+74	Frieda	BinMIL	PKL02	Parklands	Slingshots	17-Feb-82	40	£12.10	£484.00
+75	Holly	Taylor	MIL07	Milnerton	Cobra	17-Aug-84	30	£16.75	£494.13
+76	Tim	Barthoff	MIL47	Milnerton	Monkey Falls	27-Oct-89	40	£6.50	£260.00
+77	Esther	Williams	PKL39	Parklands	Monkey Falls	13-Dec-86	40	£19.50	£780.00
+78	Theresa	Miller	TBV79	Table View	Shows	04-Mar-91	40	£22.00	£880.00
+79	Marianne	TBVlvin	PKL23	Parklands	Shows	23-Jul-85	40	£15.00	£600.00
+80	Sue	Petty	MIL11	Milnerton	Monkey Falls	30-Nov-94	40	£6.50	£260.00
+81	GrPKLe	Sloan	PKL12	Parklands	Shows	02-Nov-84	40	£15.50	£620.00
+82	Richard	Gibbs	MIL24	Milnerton	Cobra	23-Jan-89	30	£15.00	£442.50
+83	Lorrie	Sullivan	PKL04	Parklands	Monkey Falls	03-Mar-81	16	£12.60	£195.30
+84	Ted	Hayes	SUN33	Sunningdale	Slingshots	07-Dec-86	32	£8.75	£280.00
+85	Helen	Stewart	MIL57	Milnerton	Slingshots	03-May-90	42	£15.50	£651.00
+86	Katie	Smith	TBV32	Table View	Shows	05-Oct-86	40	£15.00	£600.00
+87	Jane	Winters	SUN23	Sunningdale	Slingshots	07-Nov-89	35	£12.60	£441.00
+88	Paul	Martin	MIL02	Milnerton	Cobra	19-Apr-79	40	£6.50	£260.00
+89	Geoff	Brown	SUN48	Sunningdale	Slingshots	01-Jul-87	40	£6.50	£260.00
+90	Alice	Owens	PKL48	Parklands	Monkey Falls	02-Mar-87	16	£5.50	£85.25
+91	Greg	ThomPKL	PKL53	Parklands	Cobra	24-Dec-87	40	£16.75	£670.00
+92	Sam	Whitney	MIL09	Milnerton	Shows	28-Nov-83	40	£7.22	£288.80
+93	Erin	BinMIL	PKL70	Parklands	Slingshots	08-Apr-91	40	£12.10	£484.00
+94	Amy	Tooley	PKL59	Parklands	Monkey Falls	01-Sep-90	16	£6.50	£100.75
