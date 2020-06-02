@@ -26,25 +26,26 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
+
 **Following is what you need for this book:**
 Whether you’re just getting started or have used Microsoft Office before and are looking to develop your MS Office skills further, this book will help you to make the most of the different Office applications. Familiarity with the Office 2019 suite will be useful, but not mandatory.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-18).
 ### Software and Hardware List
-| No| Software required | OS required |
+| Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|1-18| Office 2019 | Windows 10 or later |
-
+| 1-18 | Office 2019 | Windows 10 or later |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781839217258_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/in/all/office-365-user-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789809312)
+* Office 365 User Guide  [[Packt]](https://www.packtpub.com/in/all/office-365-user-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789809312) [[Amazon]](https://www.amazon.com/dp/1789809312)
 
 * Hands-On Financial Modeling with Microsoft Excel 2019  [[Packt]](https://www.packtpub.com/in/data/hands-on-financial-modeling-with-microsoft-excel-2019?utm_source=github&utm_medium=repository&utm_campaign=9781789534627) [[Amazon]](https://www.amazon.com/dp/1789534623)
 
 ## Get to Know the Author
-**Linda Foulkes** is an L&D trainer at Knights plc. She is also a Microsoft Office Master Trainer, Microsoft Certified Educator, and Microsoft Innovative Expert Educator and Trainer with over 25 years of experience. In 2015, Linda represented South Africa at the Microsoft Global Forum in Redmond. She has certified and coached students who competed at the Microsoft Office Specialist Championships in Texas. She has published five training manuals and courseware for the Microsoft Office Specialist Certification and the ICDL Foundation SA. She has presented at conferences and webinars for SchoolNet SA, hosted TeachMeets and MicrosoftMeets, and developed e-learning paths for the Microsoft Office suite of programs, owing to her interest in e-learning.
+**Linda Foulkes**
+Linda Foulkes is an L&D trainer at Knights plc. She is also a Microsoft Office Master Trainer, Microsoft Certified Educator, and Microsoft Innovative Expert Educator and Trainer with over 25 years of experience. In 2015, Linda represented South Africa at the Microsoft Global Forum in Redmond. She has certified and coached students who competed at the Microsoft Office Specialist Championships in Texas. She has published five training manuals and courseware for the Microsoft Office Specialist Certification and the ICDL Foundation SA. She has presented at conferences and webinars for SchoolNet SA, hosted TeachMeets and MicrosoftMeets, and developed e-learning paths for the Microsoft Office suite of programs, owing to her interest in e-learning.
 
 
 ### Suggestions and Feedback
