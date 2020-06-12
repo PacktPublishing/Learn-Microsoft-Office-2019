@@ -38,17 +38,20 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781839217258_ColorImages.pdf).
 
+## Code in Action
+
+Click on the following link to see the Code in Action:
+
+https://bit.ly/2WpM7iY
+
 ### Related products
 * Office 365 User Guide  [[Packt]](https://www.packtpub.com/in/all/office-365-user-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789809312) [[Amazon]](https://www.amazon.com/dp/1789809312)
 
 * Hands-On Financial Modeling with Microsoft Excel 2019  [[Packt]](https://www.packtpub.com/in/data/hands-on-financial-modeling-with-microsoft-excel-2019?utm_source=github&utm_medium=repository&utm_campaign=9781789534627) [[Amazon]](https://www.amazon.com/dp/1789534623)
 
 ## Get to Know the Author
-**Linda Foulkes**
-Linda Foulkes is an L&D trainer at Knights plc. She is also a Microsoft Office Master Trainer, Microsoft Certified Educator, and Microsoft Innovative Expert Educator and Trainer with over 25 years of experience. In 2015, Linda represented South Africa at the Microsoft Global Forum in Redmond. She has certified and coached students who competed at the Microsoft Office Specialist Championships in Texas. She has published five training manuals and courseware for the Microsoft Office Specialist Certification and the ICDL Foundation SA. She has presented at conferences and webinars for SchoolNet SA, hosted TeachMeets and MicrosoftMeets, and developed e-learning paths for the Microsoft Office suite of programs, owing to her interest in e-learning.
+**Linda Foulkes** is an L&D trainer at Knights plc. She is also a Microsoft Office Master Trainer, Microsoft Certified Educator, and Microsoft Innovative Expert Educator and Trainer with over 25 years of experience. In 2015, Linda represented South Africa at the Microsoft Global Forum in Redmond. She has certified and coached students who competed at the Microsoft Office Specialist Championships in Texas. She has published five training manuals and courseware for the Microsoft Office Specialist Certification and the ICDL Foundation SA. She has presented at conferences and webinars for SchoolNet SA, hosted TeachMeets and MicrosoftMeets, and developed e-learning paths for the Microsoft Office suite of programs, owing to her interest in e-learning.
 
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
